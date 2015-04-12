@@ -1,0 +1,10 @@
+Package: hhsim
+Version: 0.5
+Date: 2015-04-12
+Title: Hierarchical model simulation functions
+Author: Greg Ridgeway <gridge@sas.upenn.edu> and Susan Paddock <paddock@rand.org>
+Maintainer: Greg Ridgeway <gridge@sas.upenn.edu>
+Depends: R (>= 3.0.0),
+Description: This package implements a handful of likelihood and priors to experiment with hierarchical models.
+License: GPL (version 2 or newer)
+         Uses Newmat10 by Robert Davies, in the public domain  

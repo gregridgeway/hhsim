@@ -1,0 +1,26 @@
+12-13-04
+
+HHSIM: Software for simulating two-stage hierarchical models in
+"Flexible Prior Distributions for Triple-Goal Estimates in Two-Stage
+Hierarchical Models," by Paddock, Ridgeway, Lin, and Louis.
+
+Results of its methodology can be found in S.M. Paddock, G. Ridgeway, R. Lin, T.A. Louis (2006). “Flexible distributions for triple-goal estimates in two-stage hierarchical models,” Computational Statistics and Data Analysis 50(11):3243-3262.
+
+GR estimation routines based on Shen, Wei , and Louis, Thomas A.  (1998), 
+``Triple-goal estimates in two-stage hierarchical models'', Journal
+of the Royal Statistical Society, Series B, Methodological, 60 , 455-471
+
+Dirichlet process mixture simulation based on MacEachern, S. and Mueller, P.
+(1998), "Estimating mixture of Dirichlet process models." Journal of
+Computational and Graphical Statistics,} 7, 223-238.
+
+T-distribution simulation based on Verdinelli, I. and Wasserman, L.  (1991),
+"Bayesian analysis of outlier problems using the Gibbs sampler." Statistics and
+Computing, 1, 105-117.
+
+FILES:
+
+- demo/runitv8_gr_final.R:  R command file to run the program
+   The demo is accessible from the R prompt, demo(runitv8_gr_final)
+   Note that this demo generates lots of files in the current directory.
+

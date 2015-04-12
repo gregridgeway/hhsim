@@ -1,0 +1,8 @@
+version 0.5
+- updated for R 3.0 and associated build tools
+
+version 0.4
+- demo is now in place. Same script used in Paddock et al (2004)
+
+version 0.3
+- Added NPML and Smoothing by Roughening functionality
